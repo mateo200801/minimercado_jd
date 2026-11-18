@@ -13,6 +13,10 @@ app.use(helmet());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
+app.get('/', (req, res) => {
+  res.json({ success: true, message: 'API Minimercado JD funcionando en línea' });
+});
+
 // Rutas de la API
 app.get('/api/health', (req, res) => {
   res.status(200).json({
