@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "codigo": "75010001",
+    "descripcion": "Aceite Vegetal 1L",
+    "precioCosto": 2800,
+    "precioVenta": 3500,
+    "existencia": 24,
+    "stockMinimo": 5
+  },
+  {
+    "id": 2,
+    "codigo": "75010002",
+    "descripcion": "Arroz Diana 1kg",
+    "precioCosto": 1700,
+    "precioVenta": 2200,
+    "existencia": 49,
+    "stockMinimo": 10
+  },
+  {
+    "id": 1793155284935,
+    "codigo": "2008",
+    "descripcion": "salchipapa",
+    "precioCosto": 10000,
+    "precioVenta": 20000,
+    "existencia": 14,
+    "stockMinimo": 5
+  },
+  {
+    "id": 1793155353201,
+    "codigo": "18",
+    "descripcion": "manzana",
+    "precioCosto": 2000,
+    "precioVenta": 2500,
+    "existencia": 18,
+    "stockMinimo": 5
+  },
+  {
+    "id": 1793192692799,
+    "codigo": "1234567",
+    "descripcion": "undefined",
+    "precioCosto": 0,
+    "precioVenta": null,
+    "existencia": 0,
+    "stockMinimo": 5
+  },
+  {
+    "id": 1793192710234,
+    "codigo": "987654",
+    "descripcion": "undefined",
+    "precioCosto": 0,
+    "precioVenta": null,
+    "existencia": 0,
+    "stockMinimo": 5
+  }
+]

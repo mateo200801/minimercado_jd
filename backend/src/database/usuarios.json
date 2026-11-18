@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "username": "admin_principal",
+    "password": "123",
+    "nombre": "Administrador Principal",
+    "rol": "ADMIN"
+  },
+  {
+    "id": 2,
+    "username": "cajero_turno_1",
+    "password": "123",
+    "nombre": "Cajero Turno 1",
+    "rol": "CAJERO"
+  },
+  {
+    "id": 1793147719325,
+    "username": "juan_jose",
+    "password": "juan123",
+    "nombre": "juan jose allin tapia",
+    "rol": "CAJERO"
+  },
+  {
+    "id": 1793148578001,
+    "username": "mateo_madrid_moreno",
+    "password": "mateo2008",
+    "nombre": "mateo madrid moreno",
+    "rol": "CAJERO"
+  },
+  {
+    "id": 1793148851693,
+    "username": "deivid_chakal",
+    "password": "chakal123",
+    "nombre": "deivid chakal",
+    "rol": "CAJERO"
+  },
+  {
+    "id": 1793200102957,
+    "username": "mateo_madrid",
+    "password": "123456",
+    "nombre": "Mateo Madrid",
+    "rol": "ADMIN"
+  }
+]
